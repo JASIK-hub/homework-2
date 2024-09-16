@@ -1,0 +1,39 @@
+body{background-color:rgb(237, 217, 217);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+    height:100vh;
+   
+    
+    }
+
+
+.card{display:flex;
+      flex-direction: column;;
+      align-items: center;
+      justify-content: center;
+      background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF8ZVPx8fix-HpCLOx0a0TBXSdgTy4LYYKSw&s);
+      background-repeat:no-repeat;
+      background-size:cover;
+      margin-top: 100px;
+      padding:60px 110px 150px 110px;
+      border-radius:20px;
+      border:4px solid black;
+      width:700px;
+      color:aliceblue;
+      font-family: sans-serif;
+
+    }
+h1{font-size:150px;
+   margin:0}
+h5{font-size: 12px;}
+h3{width:360px;
+    font-size:15px;
+    font-weight:600;
+
+ }
+a{color: aliceblue;
+}
+p,a{font-size: 10px;
+    font-weight: 100;}
